@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p><img align="right" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="250" height="150"></p>
+
 ## Currently
 <p>🔭 Student at SourceMXAcademy.</p>
-<p>🌱 Learning ReactJS.</p>
+<p>🌱 Learning ReactJS.</p>.
 
 ## How to reach me?
  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kire.mitrov.km@gmail.com)
