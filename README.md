@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently learning ReactJS.</p>
 
 ## How to reach me?
+ [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kire.mitrov.km@gmail.com)
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kire-mitrov-066313198/).
 <br><br>
 <hr>
