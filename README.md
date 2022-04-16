@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <p><img align="right" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="250" height="150"></p>
 <p>🔭 Student at SourceMXAcademy.</p>
 <p>🌱 I’m currently learning ReactJS.</p>
-<p>How to reach me?</p>
- 
-<br><br><br>
+# How to reach me?
+ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kire-mitrov-066313198/).
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KireMitrov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KireMitrov&theme=tokyonight)
+<br><br>
 <hr>
 <h3>Some GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
