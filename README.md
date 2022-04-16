@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p><img align="center" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="500" height="300"></p>
 <h3>Some GitHub Stats</h3>
-<img width="250" height="200" src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
+<img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KireMitrov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KireMitrov&theme=tokyonight)
