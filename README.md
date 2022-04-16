@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <p>Some GitHub Stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KireMitrov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
