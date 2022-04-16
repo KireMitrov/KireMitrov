@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I`m Kire. Currently student at SourceMXAcadamey
 
 <!--
 **KireMitrov/KireMitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p><img align="center" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="500" height="300"></p>
-<p>Some GitHub Stats</p>
-<img src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
+<h3>Some GitHub Stats</h3>
+<img width="250" height="200" src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KireMitrov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KireMitrov&theme=tokyonight)
