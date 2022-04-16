@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="right" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="500" height="300"></p>
+<p><img align="right" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="250" height="150"></p>
 <p>🔭 Student at SourceMXAcademy.</p>
 <p>🌱 I’m currently learning ReactJS.</p>
-
-
-
-
+<hr>
 <h3>Some GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
 
