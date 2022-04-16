@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <p><img align="right" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="250" height="150"></p>
 <p>🔭 Student at SourceMXAcademy.</p>
 <p>🌱 I’m currently learning ReactJS.</p>
+<p>How to reach me?</p>
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kire.mitrov.km@gmail.com)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kire-mitrov-066313198/).
 <br><br><br>
 <hr>
 <h3>Some GitHub Stats</h3>
