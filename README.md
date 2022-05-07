@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kire-mitrov-066313198/).
 <br><br>
 <hr>
-## Some Github Stats:
+<h2><b>Some Gothub Stats</b></h2>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
 
