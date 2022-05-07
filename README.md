@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kire-mitrov-066313198/).
 <br><br>
 <hr>
-<h3>Some GitHub Stats</h3>
+## Some Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=KireMitrov&theme=radical" >
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KireMitrov&date_format=M%20j%5B%2C%20Y%5D).
