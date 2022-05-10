@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 Currently enrolled at SMX Academy where I am developing the skills of becoming a full stack web developer.
 I have always considered my self to be a curious person who loves challenging myself. Programming and puzzles have always been my passion since I can remember. I love hiking, solving puzzels, listening music, reading ...
 
+## My stack and skills
+[![https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white]]
+
 ## How to reach me?
  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kire.mitrov.km@gmail.com)
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kire-mitrov-066313198/).
