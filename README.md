@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 -->
 <p><img align="right" src="https://github.com/KireMitrov/KireMitrov/blob/main/coding.gif" width="250" height="150"></p>
 
-## Currently
-<p>🔭 Student at SourceMXAcademy.</p>
-<p>🌱 Learning ReactJS.</p>.
+Currently enrolled at SMX Academy where I am developing the skills of becoming a full stack web developer.
+I have always considered my self to be a curious person who loves challenging myself. Programming and puzzles have always been my passion since I can remember. I love hiking, solving puzzels, listening music, reading ...
 
 ## How to reach me?
  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kire.mitrov.km@gmail.com)
